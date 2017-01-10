@@ -51,3 +51,9 @@ JS: https://577351e10bc4a0198d93-f60a0bb748a3c84145bb10da7563bafb.ssl.cf1.rackcd
 npm install
 grunt
 ```
+
+### License
+
+Copyright 2014-2017 SonarSource.
+
+Licensed under the [GNU Lesser General Public License, Version 3.0](http://www.gnu.org/licenses/lgpl.txt)
